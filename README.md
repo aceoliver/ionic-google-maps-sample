@@ -15,3 +15,7 @@ grunt run
 ```
 
 * API_KEY_FOR_ANDROID can be generated in [Google Developers Console](https://console.developers.google.com/project)
+
+# References
+
+* [phonegap-googlemaps-plugin](https://github.com/wf9a5m75/phonegap-googlemaps-plugin/wiki/Tutorial-for-Mac)
