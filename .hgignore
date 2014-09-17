@@ -1,0 +1,26 @@
+syntax:glob
+
+# Project #
+
+# System #
+.DS_Store
+
+# Mercurial #
+.orig
+
+# Node #
+node_modules/
+
+# Grunt build #
+www/
+plugins/
+platforms/
+.tmp/
+
+# Bower #
+bower_components/
+
+# IDE #
+nbproject/
+.idea/
+atlassian-ide-plugin.xml
